@@ -1,0 +1,29 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Mainting to-do list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intenserave/to-do-app.git"
+  },
+  "keywords": [
+    "tutorial",
+    "to-do-app"
+  ],
+  "author": "Intenserave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intenserave/to-do-app/issues"
+  },
+  "homepage": "https://github.com/intenserave/to-do-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
